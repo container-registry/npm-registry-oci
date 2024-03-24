@@ -1,0 +1,11 @@
+{
+  "name": "@corp/npm-library",
+  "version": "1.0.1",
+  "description": "Disable SSL verify (for dev purposes only) ```shell npm config set strict-ssl false ```",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
